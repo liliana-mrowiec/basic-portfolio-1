@@ -4,4 +4,4 @@ This is a simple personal portfolio website project written in HTML. It is my fi
 
 ## Contact
 
-For questions, reach out to [your@email.com](mailto:liliana.h.mrowiec@gmail.com).
+For questions, reach out to [liliana.h.mrowiec@gmail.com](mailto:liliana.h.mrowiec@gmail.com).
